@@ -2,11 +2,11 @@
 
 #### - Deep Convolutional Generative Adversarial Networks (DCGAN)
 
-    - **Architecture**: Deep Convolutional Generative Adversarial Networks (DCGANs) leverage convolutional neural networks (CNNs) for both the generator and discriminator networks. This enables them to effectively generate high-resolution images by learning hierarchical representations of visual data.
+- **Architecture**: Deep Convolutional Generative Adversarial Networks (DCGANs) leverage convolutional neural networks (CNNs) for both the generator and discriminator networks. This enables them to effectively generate high-resolution images by learning hierarchical representations of visual data.
 
-    - **Training Dynamics**: DCGANs are trained using a min-max game framework, where the generator aims to produce realistic images that can fool the discriminator, while the discriminator strives to distinguish between real and generated images. Through adversarial training, both networks improve iteratively, converging towards generating increasingly realistic outputs.
+- **Training Dynamics**: DCGANs are trained using a min-max game framework, where the generator aims to produce realistic images that can fool the discriminator, while the discriminator strives to distinguish between real and generated images. Through adversarial training, both networks improve iteratively, converging towards generating increasingly realistic outputs.
 
-    - **Feature Learning**: DCGANs learn to generate images by capturing and synthesizing complex features from input noise vectors. They exploit the hierarchical structure of convolutional networks to extract meaningful representations at different levels of abstraction, enabling the generation of diverse and visually appealing images.
+- **Feature Learning**: DCGANs learn to generate images by capturing and synthesizing complex features from input noise vectors. They exploit the hierarchical structure of convolutional networks to extract meaningful representations at different levels of abstraction, enabling the generation of diverse and visually appealing images.
 
 #### - Conditional GAN (CGAN)
 
